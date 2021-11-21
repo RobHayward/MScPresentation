@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*.Rproj
+*log
+.Rproj.user/*
+
